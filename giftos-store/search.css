@@ -1,0 +1,7 @@
+.search-input {
+    display: none;
+  }
+  
+  .show-search-input {
+    display: block;
+  }
